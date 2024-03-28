@@ -1,0 +1,8 @@
+Rooms:40
+Patients:250
+Planning horizon:14
+Scenario size:10
+--------------------------------------------------
+Total capacity = 121 X 14 = 1694 beds*days
+Total occupancy = 949 (56.02125147579693%)
+Daily occupancy = 18%, 38%, 42%, 45%, 49%, 56%, 66%, 60%, 62%, 65%, 71%, 69%, 71%, 66%, 
