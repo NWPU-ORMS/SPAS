@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+cmake-build-*/
+*.mps
+**/example/**/Day_*/
+
+# Generated solver output
+**/log/**
+**/result/**
+!**/log/.gitkeep
+!**/result/.gitkeep
